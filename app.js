@@ -15,7 +15,6 @@ function somaClique(){
 
     let digitoUm = prompt("Digite um número inteiro");
     let digitoDois = prompt("Digite outro número, irei somá-los")
-
 //parseInt converte as Strings em inteiros, pois o prompt retorna somente valores em formato de String.
     let numeroUm = parseInt(digitoUm);
     let numeroDois = parseInt(digitoDois);
